@@ -1,6 +1,6 @@
 # PetPals
 
-Pet Pals is a web application built on python/flask with a sqlite database that lets a user add their pet names to their location (lat/lon) and displays them on a map.
+Pet Pals is a web application built on python/flask with a sqlite database that lets a user add their pet names to their location (lat/lon) and displays them on a map. This app is hosted on heroku where you can see it [here](https://pet-pals-uofo.herokuapp.com/).
 
 ## Prerequisites
 
@@ -11,6 +11,8 @@ Before you begin, ensure you have met the following requirements:
     i.e. `conda` or `pyenv`
 
 ## Quickstart
+
+To run this application locally use the following steps:
 
 * clone repo
 
